@@ -1,0 +1,10 @@
+{
+  "name": "scan-and-pay-workspace",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix scan-and-pay run dev",
+    "server": "npm --prefix scan-and-pay run server",
+    "client": "npm --prefix scan-and-pay run client"
+  }
+}
